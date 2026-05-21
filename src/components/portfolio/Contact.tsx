@@ -6,7 +6,7 @@ const channels = [
   { i: Phone, label: "Phone", value: "+20 115 0653018", href: "tel:+201150653018" },
   { i: MessageCircle, label: "WhatsApp", value: "Chat on WhatsApp", href: "https://wa.me/201150653018" },
   { i: Linkedin, label: "LinkedIn", value: "linkedin.com/in/saadshahin", href: "https://linkedin.com/in/saadshahin" },
-  { i: Github, label: "GitHub", value: "github.com/saadshahin", href: "https://github.com/saadshahin" },
+  { i: Github, label: "GitHub", value: "github.com/saadshahin", href: "https://github.com/saadshahein" },
   { i: MapPin, label: "Location", value: "Cairo, Egypt", href: "#" },
 ];
 
