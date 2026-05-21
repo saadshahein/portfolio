@@ -18,7 +18,7 @@ export function About() {
       id="about"
       eyebrow="About"
       title={<>Enterprise ERP engineering, <span className="text-gradient">end to end.</span></>}
-      subtitle="Over 2.5 years of Odoo development across onsite, remote, and part-time engagements with manufacturing, retail, logistics, and SaaS companies. I specialize in turning complex business requirements into reliable, maintainable ERP systems."
+      subtitle="Over 2 years of Odoo development across onsite, remote, and part-time engagements with manufacturing, retail, logistics, and SaaS companies. I specialize in turning complex business requirements into reliable, maintainable ERP systems."
     >
       <div className="grid lg:grid-cols-[1.1fr_1fr] gap-10">
         <div className="space-y-5 text-muted-foreground leading-relaxed">
